@@ -1,0 +1,95 @@
+🔰 1. Core Python Basics
+
+📘 Book: Core Python Programming - Wesley J. Chun
+📌 Start here to master:
+
+    Python syntax & data structures
+
+    Control flow, functions, OOP
+
+    File handling & exceptions
+    📆 Duration: 2-3 weeks
+
+⚡ 2. Writing Better Code
+
+📘 Book: High Performance Python - Micha Gorelick
+📌 Learn:
+
+    Profiling & optimization
+
+    Parallel computing
+
+    Memory management
+    📆 Duration: 1-2 weeks (after grasping basics)
+
+🍳 3. Python Power Tools & Recipes
+
+📘 Book: Python Cookbook - David Beazley, Brian K. Jones
+📌 Apply:
+
+    Practical recipes for real-world tasks
+
+    String manipulation, generators, concurrency
+    📆 Duration: Use as needed during practice
+
+🧪 4. Testing & Best Practices
+
+📘 Book: Python Testing with Pytest - Brian Okken
+📌 Master:
+
+    Writing unit tests
+
+    Structuring large projects
+
+    Pytest plugins
+    📆 Duration: 1 week
+
+🌐 5. Web Development
+
+📘 Book: Python Web Applications with Flask - Jeffrey Stroup
+📌 Learn:
+
+    Flask fundamentals
+
+    Building & deploying web apps
+
+    REST APIs
+    📆 Duration: 2 weeks
+
+🤖 6. Machine Learning
+
+📘 Book: Python Machine Learning - Sebastian Raschka
+📌 Learn:
+
+    Scikit-learn basics
+
+    Supervised & unsupervised models
+
+    Model evaluation & optimization
+    📆 Duration: 3-4 weeks
+
+📈 7. Statistics & Data Analysis
+
+📘 Book: Statistics Using Python - Oswald Campesato
+📌 Focus on:
+
+    Descriptive stats
+
+    Probability, distributions
+
+    Hypothesis testing
+    📆 Duration: 1-2 weeks (parallel with ML)
+
+📊 8. Financial & Practical Python
+
+📘 Book: Stock Trading with Python - Hayden Van Der Post
+📘 Book: Web Scraping with Python - Richard Lawson
+📌 Learn:
+
+    Real-time financial analysis
+
+    Web automation & scraping
+
+    APIs & data pipelines
+    📆 Duration: 2 weeks per domain
+
